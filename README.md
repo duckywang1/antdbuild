@@ -57,3 +57,10 @@ npm i antd-mobile babel-plugin-import --save-dev --registry=https://registry.npm
 
 例如:    
 npm install --save-dev webpack --registry=https://registry.npm.taobao.org   
+
+
+## TODO
+想做 webpack@beta 就是2.x版本，该如何搭建以及缩小体积等等。
+
+## 联系我
+如果有好的建议或者想法，可以发邮件给我 duckywang1@gmail.com
