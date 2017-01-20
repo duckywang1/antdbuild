@@ -1,0 +1,9 @@
+{
+  "name": "mobile_vendors",
+  "content": {
+    "../node_modules/es6-promise/dist/es6-promise.js": 1,
+    "../node_modules/process/browser.js": 2,
+    "../node_modules/isomorphic-fetch/fetch-npm-browserify.js": 4,
+    "../node_modules/whatwg-fetch/fetch.js": 5
+  }
+}
