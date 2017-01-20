@@ -34,7 +34,7 @@ npm i moment moment-timezone --save-dev --registry=https://registry.npm.taobao.o
 // 额外兼容性babel(作用是防止变量进入全局)  
 npm i babel-plugin-external-helpers babel-plugin-transform-runtime --save-dev --registry=https://registry.npm.taobao.org
 
-// 高清方案
+// 高清方案  
 npm i extract-text-webpack-plugin autoprefixer postcss-pxtorem postcss postcss-loader postcss-pxtorem --save-dev --registry=https://registry.npm.taobao.org
 
 // less 编译  
@@ -43,7 +43,7 @@ npm i less less-loader --save-dev --registry=https://registry.npm.taobao.org
 // antd-mobile babel-plugin-import 安装  
 npm i antd-mobile babel-plugin-import --save-dev --registry=https://registry.npm.taobao.org
 
-感谢下面的文章／资源对开发提供了很大的便利。  
+# 感谢下面的文章／资源对开发提供了很大的便利。  
 ## webpack1 DLL打包解决方案
 
 [DLL打包解决方案](https://segmentfault.com/a/1190000006087638)  
